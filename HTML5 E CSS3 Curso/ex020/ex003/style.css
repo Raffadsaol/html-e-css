@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(90, 62, 62);
+}
+
+div > p {
+    display: none;
+}
+
+div:hover  > p{
+    display: block;
+}
+
+div:hover {
+    color: red;
+}

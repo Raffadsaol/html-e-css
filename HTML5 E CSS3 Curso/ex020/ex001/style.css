@@ -1,0 +1,31 @@
+body {
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#principal {
+    text-align: center;
+    background-color: rgb(114, 197, 170);
+    color: white;
+}
+
+h1 {
+    color: black;
+
+}
+
+h2 {
+    color: black;
+}
+
+.basico {
+    color: rgb(106, 0, 255);
+}
+
+.intermediario {
+    color: rgb(36, 36, 154);
+}
+
+.avançado {
+    color: red;
+}
